@@ -1,7 +1,7 @@
 title: Max Wickham Portfolio
 email: maxwickham@startmail.com
 description: Third year Electronic and Information Engineering Student at Imperial College London
-# baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "/work" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  max-wickham

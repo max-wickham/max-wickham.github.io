@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title : Home
+title : Work Experience
 ---
 
 # Work Experience
@@ -35,14 +35,39 @@ Part Time Junior Engineer. Building microservices in Java for a gold trading pla
 
 ## Spice Style C++ Circuit Simulator
 
+https://github.com/max-wickham/CircuitSimulator
+
+A Circuit Simulator that takes a Spice Style circuit description as an input and calculates the voltage and current at each node in the circuit across a specified time period. Supported components includes resistors, inductors, capacitors, diodes, transistors, voltage sources and current sources. Numerical methods are used to solve diodes and transistors. 
+
+## ESP32 Indoor Hydroponics System
+
+https://github.com/max-wickham/LivingLarder2
+
+This is a personal project where I have been trying to build a completely automated indoor farming system that can grow prodduce within peoples homes.
+
 ## Mips CPU
+
+https://github.com/max-wickham/MipsCPU
+
+A System-Verilog design for a CPU that supports the MIPS ISA. Has complete test coverage for all the implemented instructions.
 
 ## C Compiler
 
+https://github.com/max-wickham/CCompiler
+
+A MIPS to C compiler with support for numerical types, fucntions and pointers. Some support for structs included.
+
 ## Autonomous Rover
+
+https://github.com/Group4RoverProject
+
+An end of year group university project. Includes an image processing system implemented on an FPGA for obstacle avoidance.
 
 ## Python RSA Encryption Library built in C++
 
+https://github.com/max-wickham/arbitraryprecision
+
+This is a personal project that involved building a Python Library in C++ to implement RSA encryption. A completely custom made big integer class is used to allow for support for 2048 bit encryption keys. 
 
 # Education
 
@@ -58,6 +83,12 @@ Part Time Junior Engineer. Building microservices in Java for a gold trading pla
 - Further Maths A*
 - Chemistry A
 - Physics Pre U D1 (A* Equivilant)
+
+
+# About 
+
+- email: maxwickham@startmail.com
+- github: https://github.com/max-wickham
 
 
 
