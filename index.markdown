@@ -39,6 +39,11 @@ Title: "Deep Deconstructed Learning"
 Experimenting with methods to deconstruct classical reinforcement learning algorithms into internal specialised sub-agents through natural divergence. 
 [Project Code](https://github.com/max-wickham/FYPDeepDeconstructedLearning)
 
+## Autonomous Wheelchair 
+
+Designing and implementing an autonomous wheelchair as part of a team of 11 specifically aimed at children. The wheelchair makes use of 3D mapping of the environment and voice-controlled operation. 
+[Project Code](https://github.com/HCR-Smart-Wheelchair-2023/Smart-Wheelchair-Main)
+
 ## Spice Style C++ Circuit Simulator
 
 https://github.com/max-wickham/CircuitSimulator
