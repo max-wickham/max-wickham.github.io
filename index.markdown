@@ -82,19 +82,20 @@ This is a personal project that involved building a Python Library in C++ to imp
 - Deans List 1st Year
 - 1st Year Average 75%
 - 2nd Year Average 71%
+- 3rd Year Average 76%
 
 ## A Levels
 
 - Mathematics A*
 - Further Maths A*
 - Chemistry A
-- Physics Pre U D1 (A* Equivilant)
+- Physics Pre U D1 (A* Equivalent)
 
 
 # About 
 
-- email: maxwickham@startmail.com
-- github: https://github.com/max-wickham
+- Email: maxwickham@startmail.com
+- GitHub: https://github.com/max-wickham
 
 
 
